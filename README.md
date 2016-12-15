@@ -6,5 +6,8 @@
 - pum.py: 본체
 - visit.py:테스트용. 이제 필요없음.
 
+## env ##
+anaconda3 (python3.5)
+
 ## exe파일 생성방법 ##
 python build_py2exe.py py2exe
