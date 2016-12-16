@@ -1,2 +1,2 @@
-requests==2.5.1
-py2exe==0.6.9
+py2exe-py2==0.6.9
+requests==2.12.4
