@@ -6,7 +6,8 @@
 - visit.py:테스트용. 이제 필요없음.
 
 ## env ##
-python 2.7 (using miniconda2 32bit)
+- windows 7 32bit
+- python 2.7 (using miniconda2 32bit)
 
 ## exe파일 생성방법 ##
 python build_py2exe.py py2exe
