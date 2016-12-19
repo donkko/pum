@@ -12,3 +12,6 @@
 
 ### exe파일 생성방법 ###
 python build_py2exe.py py2exe
+
+### Contact ###
+nudonkko/gmail/com
